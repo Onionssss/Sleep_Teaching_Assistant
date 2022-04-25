@@ -20,7 +20,7 @@ There are 3 Chairs on the Hallway for waiting. If all the chairs is being occupi
 This program will do infinate loop, so the screenshot is only taken arbitrarily.
 
 ## Infrastrucure graph
-
+![TA Diagram](https://user-images.githubusercontent.com/59370807/165105906-26ddedc1-2cc9-4286-9c1b-418d3113c74d.png)
 
 ## Team Members
 107440020 楊宗翰：討論架構及內容，協助製作document
